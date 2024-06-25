@@ -12,3 +12,4 @@
 
   - <a href='notebooks/gasolina-brasil.ipynb'>Análise dos preços da gasolina no Brasil</a>
   - <a href='notebooks/obesity.ipynb'>Obesity among adults by country</a>
+  - <a href='notebooks/pib-per-capita.ipynb'>PIB per capita</a>
